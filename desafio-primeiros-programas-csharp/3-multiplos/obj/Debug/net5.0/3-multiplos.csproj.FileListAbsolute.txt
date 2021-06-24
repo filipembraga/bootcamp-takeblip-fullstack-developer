@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\ref\3-multiplos.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\bin\Debug\net5.0\3-multiplos.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\ref\3-multiplos.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\3-multiplos\obj\Debug\net5.0\3-multiplos.genruntimeconfig.cache
