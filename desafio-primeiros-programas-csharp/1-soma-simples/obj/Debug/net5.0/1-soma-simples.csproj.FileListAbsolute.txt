@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\ref\1-soma-simples.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\bin\Debug\net5.0\1-soma-simples.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\ref\1-soma-simples.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\1-soma-simples\obj\Debug\net5.0\1-soma-simples.genruntimeconfig.cache
