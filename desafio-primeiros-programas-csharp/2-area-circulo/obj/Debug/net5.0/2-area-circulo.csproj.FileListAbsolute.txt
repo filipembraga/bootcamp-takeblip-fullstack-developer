@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\ref\2-area-circulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\bin\Debug\net5.0\2-area-circulo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\ref\2-area-circulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-primeiros-programas-csharp\2-area-circulo\obj\Debug\net5.0\2-area-circulo.genruntimeconfig.cache
