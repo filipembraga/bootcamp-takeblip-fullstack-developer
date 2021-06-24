@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\ref\1-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\bin\Debug\net5.0\1-bazinga.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\ref\1-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\1-bazinga\obj\Debug\net5.0\1-bazinga.genruntimeconfig.cache
