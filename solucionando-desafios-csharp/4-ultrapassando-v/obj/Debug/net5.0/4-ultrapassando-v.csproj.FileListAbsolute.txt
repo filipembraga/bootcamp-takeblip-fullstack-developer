@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\ref\4-ultrapassando-v.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\bin\Debug\net5.0\4-ultrapassando-v.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\ref\4-ultrapassando-v.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\4-ultrapassando-v\obj\Debug\net5.0\4-ultrapassando-v.genruntimeconfig.cache

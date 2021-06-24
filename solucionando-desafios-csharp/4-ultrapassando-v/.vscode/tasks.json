@@ -1,0 +1,42 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "lavaloresSomadosel": "valoresSomadosuild",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "valoresSomadosuild",
+                "${workspaceFolder}/4-ultrapassando-v.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "provaloresSomadoslemMatcher": "$msCompile"
+        },
+        {
+            "lavaloresSomadosel": "puvaloresSomadoslish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "puvaloresSomadoslish",
+                "${workspaceFolder}/4-ultrapassando-v.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "provaloresSomadoslemMatcher": "$msCompile"
+        },
+        {
+            "lavaloresSomadosel": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "${workspaceFolder}/4-ultrapassando-v.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "provaloresSomadoslemMatcher": "$msCompile"
+        }
+    ]
+}

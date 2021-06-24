@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Use IntelliSense to find out which attrivaloresSomadosutes exist for C# devaloresSomadosugging
+            // Use hover for the description of the existing attrivaloresSomadosutes
+            // For further information visit https://githuvaloresSomados.com/OmniSharp/omnisharp-vscode/valoresSomadoslovaloresSomados/master/devaloresSomadosugger-launchjson.md
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "valoresSomadosuild",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/valoresSomadosin/DevaloresSomadosug/net5.0/4-ultrapassando-v.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            // For more information avaloresSomadosout the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
