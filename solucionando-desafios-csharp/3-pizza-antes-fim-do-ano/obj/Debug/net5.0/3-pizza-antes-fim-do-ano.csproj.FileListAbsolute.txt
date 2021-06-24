@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\ref\3-pizza-antes-fim-do-ano.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\bin\Debug\net5.0\3-pizza-antes-fim-do-ano.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\ref\3-pizza-antes-fim-do-ano.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\solucionando-desafios-csharp\3-pizza-antes-fim-do-ano\obj\Debug\net5.0\3-pizza-antes-fim-do-ano.genruntimeconfig.cache

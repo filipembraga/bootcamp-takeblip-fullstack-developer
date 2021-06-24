@@ -1,0 +1,39 @@
+﻿using System;
+
+namespace _3_pizza_antes_fim_do_ano
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] line = Console.ReadLine().Split(" ");
+            int totalDePessoas = int.Parse(line[0]);
+            int totalDeDatas = int.Parse(line[1]);
+            
+            string dataConsiderada = " ";
+            
+            for (int i = 0; i < totalDeDatas; i++)
+                {
+                int totalDePessoasQuePodemComparecer = 0;
+                
+                string[] entradaDataConfirmacao = Console.ReadLine().Split(" ");
+                dataConsiderada = entradaDataConfirmacao[0];
+                
+                for (int j = 1 ; j <=totalDePessoas; j++)
+                {
+                    totalDePessoasQuePodemComparecer += int.Parse(entradaDataConfirmacao[j]); 
+                }
+            
+                if (totalDePessoasQuePodemComparecer == totalDePessoas)
+                {
+                    Console.WriteLine(dataConsiderada);
+                    break;
+                } 
+                else if ( i + 1 >= totalDeDatas)
+                {
+                    Console.WriteLine("Pizza antes de FdA");
+                }
+            }
+        }
+    }
+}
