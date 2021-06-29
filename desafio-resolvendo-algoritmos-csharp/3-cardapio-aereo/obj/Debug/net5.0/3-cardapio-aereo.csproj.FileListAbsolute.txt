@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\ref\3-cardapio-aereo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\bin\Debug\net5.0\3-cardapio-aereo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\ref\3-cardapio-aereo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\3-cardapio-aereo\obj\Debug\net5.0\3-cardapio-aereo.genruntimeconfig.cache
