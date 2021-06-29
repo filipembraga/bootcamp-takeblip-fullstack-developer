@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\ref\2-coxinha-de-bueno.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\bin\Debug\net5.0\2-coxinha-de-bueno.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\ref\2-coxinha-de-bueno.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\TakeBlip\bootcamp-takeblip-fullstack-developer\desafio-resolvendo-algoritmos-csharp\2-coxinha-de-bueno\obj\Debug\net5.0\2-coxinha-de-bueno.genruntimeconfig.cache
